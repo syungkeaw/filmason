@@ -1,0 +1,20 @@
+.thumbnail > div {
+    padding-top: 144%;
+    position: relative;
+}
+.thumbnail > div > img {
+    height: 100% !important;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.thumbnail{
+	padding: 0 !important;
+	border: 0 !important;
+}
